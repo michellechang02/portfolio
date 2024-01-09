@@ -22,17 +22,27 @@ function experience() {
         <Table.Column>DETAILS</Table.Column>
       </Table.Header>
       <Table.Body>
-        <Table.Row key="1">
+      <Table.Row key="1">
+          <Table.Cell>Microsoft</Table.Cell>
+          <Table.Cell>Software Engineer</Table.Cell>
+          <Table.Cell>TBD</Table.Cell>
+        </Table.Row>
+      <Table.Row key="2">
+          <Table.Cell>Penn Engineering</Table.Cell>
+          <Table.Cell>CIS 3500 Teaching Assistant</Table.Cell>
+          <Table.Cell>Teaching students software engineering (MERN stack)</Table.Cell>
+        </Table.Row>
+        <Table.Row key="3">
           <Table.Cell>Qualcomm</Table.Cell>
           <Table.Cell>Software Engineer</Table.Cell>
           <Table.Cell>Automated machine learning pipelines (MLOps)</Table.Cell>
         </Table.Row>
-        <Table.Row key="2">
+        <Table.Row key="4">
           <Table.Cell>Penn Engineering</Table.Cell>
           <Table.Cell>CIS 2400 Teaching Assistant</Table.Cell>
           <Table.Cell>Teaching students C and pointers</Table.Cell>
         </Table.Row>
-        <Table.Row key="2">
+        <Table.Row key="5">
           <Table.Cell>Penn Medicine</Table.Cell>
           <Table.Cell>Summer Research Assistant</Table.Cell>
           <Table.Cell>Full-Stack Web Application to Visualize Brain Imaging Data in 3D</Table.Cell>
